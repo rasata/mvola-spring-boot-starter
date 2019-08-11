@@ -37,7 +37,7 @@
 
         <dependency>
             <groupId>com.codeandscale.payment</groupId>
-            <artifactId>mvola-api-client</artifactId>
+            <artifactId>mvola-api-java-client</artifactId>
             <version>${project.version}</version>
         </dependency>
 
